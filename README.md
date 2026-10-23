@@ -37,5 +37,4 @@ Run the program by providing an MP3 filename:
     Genre   : 13
 
 ## Author
-Your Name
 Datta Murte
